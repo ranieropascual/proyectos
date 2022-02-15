@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\grid"
+		},
+		{
+			"path": "..\\..\\proyecto 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "grid"
+	}
+}
